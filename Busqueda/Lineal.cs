@@ -8,7 +8,7 @@ namespace PracCla_Erick_EESA.Datos
 {
     public class Lineal
     {
-        public void uno()
+        public void uno() 
         {
             
         }
